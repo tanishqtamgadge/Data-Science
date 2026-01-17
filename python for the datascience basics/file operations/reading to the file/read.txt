@@ -1,0 +1,4 @@
+Python is a powerful and easy-to-learn programming language.\n
+It is widely used in data science, web development, and automation.
+File handling in Python allows us to read and write data easily.
+Practice makes programming skills stronger.

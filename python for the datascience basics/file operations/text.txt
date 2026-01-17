@@ -1,0 +1,30 @@
+this are used to do the operations like read and write to the files
+
+types
+
+text files :
+.txt,.docs,.log etc
+
+binary files:
+mp4,.mov,.png,.jpeg etc
+
+open,read and close files
+we have to open a file before reading or writing
+
+f = open("file_name" , "mode)
+file_name can be sample.txt/docs/etc
+mode can be read mode / write mode
+
+then
+data = f.read()
+f.close
+
+
+operations or the modes to do wth the files
+r to open for read
+w to open for write,truncating the file first
+x to create a new file and open it for writing
+a to open for writing appending to the end of the file if it exists
+b to binary mode
+t to the text mode
++ to open a desk file foe updating(reading and writing)

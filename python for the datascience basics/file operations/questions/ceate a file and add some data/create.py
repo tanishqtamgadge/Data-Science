@@ -1,0 +1,8 @@
+f = open(r"D:\python for the datascience basics\PYTHON\file operations\questions\ceate a file and add some data\data.txt","w")
+f.write("Hi everyone")
+f = open(r"D:\python for the datascience basics\PYTHON\file operations\questions\ceate a file and add some data\data.txt","a")
+f.write("\nwe are learning fileI/O")
+f = open(r"D:\python for the datascience basics\PYTHON\file operations\questions\ceate a file and add some data\data.txt","a")
+f.write("\nusing Java")
+f = open(r"D:\python for the datascience basics\PYTHON\file operations\questions\ceate a file and add some data\data.txt","a")
+f.write("\nI like programming in java")
