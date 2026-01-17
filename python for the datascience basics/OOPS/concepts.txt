@@ -1,0 +1,9 @@
+class is the blueprint for creasting the objects
+
+//is the class name students contains name
+class Students:
+   name = "karan sharma"
+
+#creaing object (instance)
+s1 = Student() here s1 is the instance and contains the data of the student
+print(s1.name)  //gonna print the name
